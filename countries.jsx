@@ -1,3 +1,4 @@
+// add capital city and total area of country
 const countries = [
   { name: "Afghanistan", dial_code: "+93", code: "AF" },
   { name: "Åland Islands", dial_code: "+358", code: "AX" },
